@@ -1,6 +1,6 @@
-### Hi! I'm Bárbara Espejo 👋
+### 👋 Hi! I'm Bárbara Espejo.
 
-I'm a Front-End Developer from Argentina 🇦🇷, specializing in creating attractive and responsive landing pages that help creative brands tell their story.
+I'm a Front-End Developer from Argentina, specializing in creating attractive and responsive landing pages that help creative brands tell their story.
 
 ### 🚀 My Projects
 
@@ -13,9 +13,9 @@ Here you can see a selection of my work. This list will keep growing!
 
 ---
 
-### ¡Hola! Soy Bárbara Espejo 👋
+### 👋 ¡Hola! Soy Bárbara Espejo.
 
-Soy una Desarrolladora Front-End de Argentina 🇦🇷, especializada en crear landing pages atractivas y responsivas que ayudan a las marcas creativas a contar su historia.
+Soy una Desarrolladora Front-End de Argentina, especializada en crear landing pages atractivas y responsivas que ayudan a las marcas creativas a contar su historia.
 
 ### 🚀 Mis Proyectos
 
